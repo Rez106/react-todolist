@@ -1,0 +1,12 @@
+.add-icon {
+    transition: all 300ms ease-in-out;
+}
+
+button:hover .add-icon {
+    color: #fff !important;
+}
+
+.input-icon {
+    position: absolute;
+    right: 0;
+}

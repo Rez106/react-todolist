@@ -1,0 +1,15 @@
+.todo-list::-webkit-scrollbar {
+    width: 5px !important;
+    padding: 2px;
+    background-color: transparent;
+    height: 90%;
+}
+
+.todo-list::-webkit-scrollbar-thumb {
+    background-color: #475569 !important;
+    border-radius: 12px;
+}
+
+.todo-list::-webkit-scrollbar-track {
+    margin: 2px;
+}
